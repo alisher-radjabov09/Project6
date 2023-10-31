@@ -1,0 +1,3 @@
+﻿  u2310215.cpp
+D:\Projects\OOP\Project6\u2310215.cpp(67,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Project6.vcxproj -> D:\Projects\OOP\Project6\x64\Debug\Project6.exe
