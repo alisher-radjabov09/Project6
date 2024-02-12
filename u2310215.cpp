@@ -27,7 +27,7 @@ void swap(int &a , int &b) {
 	z = a;
 	a = b;
 	b = z;
-	cout << " OUUPSSS!!!" << a << b;
+	cout << " GULASAL, YOU RE HEALTHY!!!" << a << b;
 }
 
 /////////PROGRAMM 2
@@ -73,7 +73,7 @@ void ar() {
 	cout << "Enter the radius of circle";
 	cin >> rad;
 	area = P * rad * rad;
-	cout << "The area of circle is " << area;
+	cout << "HEEEEEEEEEEEEEEEEEY " << area;
 }
 
 int main() {
