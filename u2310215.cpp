@@ -73,7 +73,7 @@ void ar() {
 	cout << "Enter the radius of circle";
 	cin >> rad;
 	area = P * rad * rad;
-	cout << "The area of circle is " << area;
+	cout << "HEEEEEEEEEEEEEEEEEY " << area;
 }
 
 int main() {
