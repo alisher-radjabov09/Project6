@@ -27,7 +27,7 @@ void swap(int &a , int &b) {
 	z = a;
 	a = b;
 	b = z;
-	cout << " OUUPSSS!!!" << a << b;
+	cout << " GULASAL, YOU RE HEALTHY!!!" << a << b;
 }
 
 /////////PROGRAMM 2
